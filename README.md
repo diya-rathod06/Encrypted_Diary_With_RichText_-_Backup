@@ -5,4 +5,5 @@ All dairy entries are encrypted with a password(PBKDF2+salt+Fernet AES),so even 
 
 # Features
 - Password-protected login(PBKDF2 key derivation + salt)
+
   
