@@ -7,7 +7,7 @@ so even if someone copies the database,they cannot read your notes without the c
 # Features
 - Password-protected login(PBKDF2 key derivation + salt)
 - Rich text editor(supports basic formatting,bold,italic,underline,markdown-like input)
-- SQLite database with FTS5 for fast full-text search
+- full-text search
 - Encryption with Fernet-entries are unreadable without your password
 - Automatic backup of encrypted database file
 - Timestamps saved with each entry
